@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cde9e86b_002Da273_002D4bd0_002D93ee_002De19ca4ca0d32/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from SimulateIntegrationTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;80879609-2E8B-4CFF-A6AA-44E36C866D3E/f:SimulateIntegrationTests.cs&lt;/ProjectFile&gt;
+    &lt;Project Location="/Users/mustafabingul/Documents/mb/FosterPartners/FosterPartnersWebAPI.Tests" Presentation="&amp;lt;FosterPartnersWebAPI.Tests&amp;gt;" /&gt;
+    &lt;Project Location="/Users/mustafabingul/Documents/mb/FosterPartners/FosterPartnersConsumer.Tests" Presentation="&amp;lt;FosterPartnersConsumer.Tests&amp;gt;" /&gt;
+    &lt;ProjectFile&gt;80879609-2E8B-4CFF-A6AA-44E36C866D3E/f:SimulateControllerTest.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
